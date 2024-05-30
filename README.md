@@ -1,6 +1,7 @@
 [Figma Use case Prototype](https://www.figma.com/proto/AmpB2iU4283H5PscfqN4qO/alexanderbradshaw4's-team-library?node-id=2388-160&t=dxqcpJO1xAOY5Xfk-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2388%3A160&show-proto-sidebar=1) 
   
 # Sign-Language-Learning-App
+##For the entire UX/UI Design Process download the UXDESIGNPROCESS.docx
   
 Prototype for Sign Language Learning Application
 
