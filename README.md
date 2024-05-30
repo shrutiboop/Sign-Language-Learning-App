@@ -30,3 +30,6 @@ User testing was crucial for gathering feedback and making improvements. Through
 Final Product
 
 Overall, designing the UI for my sign language learning app has been a rewarding experience. I'm proud of the user-friendly design I've created and excited to see how it helps people learn sign language.Here is a user case I developed using figma to create a prototype. This user case is used to describe the flow path of a user navigating to see their map screen in the app.
+
+<img width="1512" alt="Screenshot 2024-04-08 at 7 40 23 PM" src="https://github.com/shrutiboop/Sign-Language-Learning-App/assets/64666409/06ccfbd0-9dca-46e1-bd7b-157f1fa6bc5b">
+
